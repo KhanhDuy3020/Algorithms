@@ -1,0 +1,1 @@
+maxKy = max(maxAllKy[i], maxKy);
